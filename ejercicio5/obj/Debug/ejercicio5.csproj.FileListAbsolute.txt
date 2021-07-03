@@ -1,0 +1,10 @@
+C:\Users\IUSUARIOI\source\repos\ejercicio5\obj\Debug\ejercicio5.csproj.AssemblyReference.cache
+C:\Users\IUSUARIOI\source\repos\ejercicio5\obj\Debug\ejercicio5.Form1.resources
+C:\Users\IUSUARIOI\source\repos\ejercicio5\obj\Debug\ejercicio5.Properties.Resources.resources
+C:\Users\IUSUARIOI\source\repos\ejercicio5\obj\Debug\ejercicio5.csproj.GenerateResource.cache
+C:\Users\IUSUARIOI\source\repos\ejercicio5\obj\Debug\ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\IUSUARIOI\source\repos\ejercicio5\bin\Debug\ejercicio5.exe.config
+C:\Users\IUSUARIOI\source\repos\ejercicio5\bin\Debug\ejercicio5.exe
+C:\Users\IUSUARIOI\source\repos\ejercicio5\bin\Debug\ejercicio5.pdb
+C:\Users\IUSUARIOI\source\repos\ejercicio5\obj\Debug\ejercicio5.exe
+C:\Users\IUSUARIOI\source\repos\ejercicio5\obj\Debug\ejercicio5.pdb
